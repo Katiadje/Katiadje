@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Katiadjellali
-- 👀 I’m interested in data science, data analysis and project management.
-- 🌱 I’m currently on the third year of MIAGE (Computer Sciences, Business and Information Systems Management) at Panthéon Sorbonne University.
-- 💞️ I’m looking to collaborate on a snowflake project which is an exciting initiative in the world of data warehousing and analytics.
-- 📫 Reach me on LinkedIn: /katia-djellali
+👋 Hi, I’m Katia Djellali
+🎓 Master’s student in Expertise in Studies & Development of Information Systems at H3 Hitema.
+💡 Passionate about Data Science, Data Analysis, and Information Systems with a strong interest in AI & project management.
+🚀 Currently exploring Snowflake for data warehousing, analytics, and AI-powered data pipelines.
+🤝 Open to collaborations and freelance projects in data engineering, analytics, and intelligent information systems.
+
+📫 Let’s connect on LinkedIn
 
 <!---
 Katiadje/Katiadje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
