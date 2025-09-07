@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Katia Djellali
-- 🎓 Master’s student in Expertise in Studies & Development of Information Systems at H3 Hitema.
-- 💡 Passionate about Data Science, Data Analysis, and Information Systems with a strong interest in AI & project management.
-- 🚀 Currently exploring Snowflake for data warehousing, analytics, and AI-powered data pipelines.
-- 🤝 Open to collaborations and freelance projects in data engineering, analytics, and intelligent information systems.
+👋 Hi, I’m **Katia Djellali**  
+
+- 🎓 Master’s student in **Expertise in Studies & Development of Information Systems**
+- 🤖 Passionate about **Artificial Intelligence, Data Science & Advanced Analytics**  
+- 🚀 Exploring **Snowflake** and **AI-powered data pipelines** for data warehousing and intelligent analytics  
+- 💡 Interested in projects combining **Machine Learning, Generative AI, and Data Engineering**  
+- 💻 Skilled in **Data Science, Information Systems, and Project Management**  
+- 🤝 Open to **collaborations and freelance projects** in **AI, Data Science & Information Systems**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/katia-djellali)  
+
 
 - 📫 Let’s connect on LinkedIn: https://www.linkedin.com/in/katia-djellali/
 
