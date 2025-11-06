@@ -1,6 +1,6 @@
 👋 Hi, I’m **Katia Djellali**  
 
-- 🎓 Master’s student in **Expertise in Studies & Development of Information Systems**
+- 🎓 Master’s student in **Expertise in Information Systems & Data Engineering**
 - 🤖 Passionate about **Artificial Intelligence, Data Science & Advanced Analytics**  
 - 🚀 Exploring **Snowflake** and **AI-powered data pipelines** for data warehousing and intelligent analytics  
 - 💡 Interested in projects combining **Machine Learning, Generative AI, and Data Engineering**  
